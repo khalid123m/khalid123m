@@ -7,7 +7,7 @@ Machine learning/Robotics/Embedded Enthusiast
 I have started with C language but I like C++ more and embedded C too, python is magic language where everything is an another package away
 
 *   🌍  I'm based in Illinois
-*   🧠  I'm learning ROS2 and IOT
+*   🧠  I'm learning Machine learning,Deep learning and AI, aling with ROS2,IOT.
 *   🤝  I'm open to collaborating on Interesting projects
 *   ⚡  Deep in my heart I like to learn 24/7 don't tell anyone
 
