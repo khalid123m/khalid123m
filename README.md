@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammad khalid
 =======================================================================================================================================
 
-Robotics software Engineer/Embedded Systems Engineer
+Machine learning/Robotics/Embedded Enthusiast
 ----------------------------------------------------
 
 I have started with C language but I like C++ more and embedded C too, python is magic language where everything is an another package away
